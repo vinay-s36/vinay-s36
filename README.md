@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## HacktoberFest'23 Badges
 [![An image of @vinays36's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vinays36)](https://holopin.io/@vinays36)
