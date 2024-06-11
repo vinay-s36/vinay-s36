@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vinayshankar0369@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Gpu_nSlBVigZJqVmVZ8bf1p6hMcqmNWW/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1I0qlDl6d6LlLn4zRhqQsmXiakuIZmwsk/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
