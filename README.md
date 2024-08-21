@@ -7,13 +7,11 @@
 
 - 📫 How to reach me **vinayshankar0369@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1I0qlDl6d6LlLn4zRhqQsmXiakuIZmwsk/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Z5hMX5owN0iVy37qVzsAa8B-u_5ZRd1f/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vinay64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinay64" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vinayshankar0369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vinayshankar0369" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vinay126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vinay126" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
