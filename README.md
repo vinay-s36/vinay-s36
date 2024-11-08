@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinay</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">A passionate Developer</h3>
 
 - 🔭 I’m interested in Web Development with NodeJS, ExpressJS, Python, Django and Chrome Extension Development
 - 👯 I’m looking to collaborate on Backend Development
